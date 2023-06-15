@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Geneva, sans-serif, Verdana;
+}
+.topnav {
+    background-color: rgb(204, 198, 198);
+}
+.topnav {
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+        justify-content: space-between;
+        width: auto;
+        height: 20px;
+    }
+    li {
+        float: left;
+            }
+
+.capnote {
+    text-align: center;
+}
+.head {
+    font-size: 60px;
+}
+.foot {
+    text-align: center;
+}
+#container {
+    height: 4200px;
+    margin: 0 120px;
+    position: relative;
+    
+}
